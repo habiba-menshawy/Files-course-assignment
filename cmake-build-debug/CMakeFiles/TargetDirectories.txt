@@ -1,0 +1,3 @@
+C:/programing languages/C++ projects/fileass2 ver3/cmake-build-debug/CMakeFiles/fileass2_ver3.dir
+C:/programing languages/C++ projects/fileass2 ver3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/programing languages/C++ projects/fileass2 ver3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
